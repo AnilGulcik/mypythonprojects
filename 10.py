@@ -68,6 +68,3 @@
 
 # val = int(input("Please enter a digit number to see absolute value of it : "))
 # print(absolute_val(val))
-
-d = {"john":40, "peter":45} 
-d["john"]
